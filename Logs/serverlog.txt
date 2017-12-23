@@ -1,0 +1,5 @@
+12-16 21:12 DEBUG    [Server_Run_Log    ] Application Started
+12-16 21:12 INFO     [Secondary_Log     ] This is a second logger.
+12-16 21:12 DEBUG    [Server_Run_Log    ] Event Table was found.
+12-16 21:12 INFO     [werkzeug          ]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12-16 21:12 INFO     [werkzeug          ] 127.0.0.1 - - [16/Dec/2017 21:43:10] "GET / HTTP/1.1" 200 -
